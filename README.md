@@ -78,7 +78,7 @@ images/   videos/
 - **All members:** Code review, testing, merging and publishing the website
 
 ## Published website
-https://gloshf.github.io/MovieVerse-WEB/
+[https://gloshf.github.io/MovieVerse-WEB/](https://gloshf.github.io/WEB-Frontend-Endterm/)
 
 ## Repository
-https://github.com/gloshf/MovieVerse-WEB
+[https://github.com/gloshf/MovieVerse-WEB](https://github.com/gloshf/WEB-Frontend-Endterm)
